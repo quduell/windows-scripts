@@ -1,2 +1,2 @@
 # windows-scripts
-Usually for-fun windows scripts I will make to make mine and possibly other people`s windows experiences better
+The UltraDebloat script needs administrator because it removes directories not in the user folder and it needs to be on Windows 10 or later with the winget package manager installed so that it can remove the apps. Also I would not recommend running this if you do not read it over first and make sure that what it's uninstalling does not matter to you because it removes things that a casual user would not be too happy about.
