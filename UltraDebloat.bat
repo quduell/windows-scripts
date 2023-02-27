@@ -11,7 +11,7 @@ winget uninstall "Microsoft News"
 winget uninstall "MSN Weather" 
 winget uninstall "Get Help" 
 winget uninstall "Microsoft Tips" 
-winget uninstall "Office" 
+winget uninstall "Teams Machine-Wide Installer" 
 winget uninstall "Microsoft Solitaire Collection" 
 winget uninstall "Microsoft Sticky Notes" 
 winget uninstall "Paint" 
@@ -36,7 +36,7 @@ winget uninstall "Movies & TV"
 winget uninstall "Quick Assist"
 winget uninstall "Microsoft Teams"
 winget uninstall "Mail and Calendar"
-winget uninstall "OneDrive"
+winget uninstall "Microsoft OneDrive"
 cls
 echo Debloat Complete
 pause
